@@ -9,7 +9,7 @@
   , "dependencies": {
       "express": "3.0.3"
     , "jade": ">= 0.0.1"
-    , "hogan-express": "0.3.3"
+    , "hogan-express": "0.5.2"
     , "htmlparser2": "2.5.0"
     , "oauth2orize": "0.1.0"
     , "request": "2.12.0"
