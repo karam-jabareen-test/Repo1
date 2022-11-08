@@ -5,7 +5,7 @@
   "main": "SLC.js",
   "dependencies": {
     "util": "~0.4.9",
-    "request": "~2.11.4"
+    "request": "~2.88.0"
   },
   "devDependencies": {
     "mocha": "~1.6.0",
