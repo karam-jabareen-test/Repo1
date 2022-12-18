@@ -4,7 +4,7 @@
   "description": "SLC JavaScript SDK",
   "main": "SLC.js",
   "dependencies": {
-    "util": "~0.4.9",
+    "util": "~0.12.0",
     "request": "~2.11.4"
   },
   "devDependencies": {
