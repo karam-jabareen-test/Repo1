@@ -16,6 +16,6 @@
     , "azure": "0.6.7"
     , "passport": "0.1.15"
     , "passport-oauth": "0.1.15"
-    , "passport-oauth2-client-password": "0.1.0"
+    , "passport-oauth2-client-password": "0.1.2"
   }
 }
